@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to the Cards Microservice (PROD profile) from EazyBank"
+  message: "Cards Microservice PRODUCTION profile"
   contactDetails:
     name: "PROD manager"
     email: "thegera4@hotmail.com"
