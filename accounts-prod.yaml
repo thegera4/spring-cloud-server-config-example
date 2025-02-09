@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to the Accounts Microservice (PROD profile) from EazyBank"
+  message: "Accounts Microservice PRODUCTION profile"
   contactDetails:
     name: "PROD manager"
     email: "{cipher}bd20158d234c022078e94b42a38e3f7871213ec1a68887f9bb3d16a4bde0f84d332d4708803dac1b450717b03633dd1c"
