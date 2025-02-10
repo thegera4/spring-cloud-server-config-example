@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Cards Microservice PRODUCTION profile"
+  message: "Cards Microservice PROD profile"
   contactDetails:
     name: "PROD manager"
     email: "thegera4@hotmail.com"
