@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Loans Microservice PRODUCTION profile"
+  message: "Loans Microservice PROD profile"
   contactDetails:
     name: "PROD manager"
     email: "thegera4@hotmail.com"
