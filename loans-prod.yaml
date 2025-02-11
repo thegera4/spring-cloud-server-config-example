@@ -2,9 +2,9 @@ build:
   version: "1.0"
 
 loans:
-  message: "Loans Microservice PROD profile"
+  message: "Loans Microservice PRODUCTION profile"
   contactDetails:
-    name: "PROD manager"
+    name: "Production manager"
     email: "thegera4@hotmail.com"
   onCallSupport:
     - (777)777-1234
