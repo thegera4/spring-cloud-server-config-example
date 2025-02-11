@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to the Accounts Microservice (DEV profile) from EazyBank"
+  message: "Accounts Microservice Default (DEV profile)"
   contactDetails:
     name: "Gerardo Medellin"
     email: "thegera4@hotmail.com"
